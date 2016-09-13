@@ -1,2 +1,3 @@
 # koa-placehold
-koa placeholder image generator
+
+> koa placeholder image generator
