@@ -1,6 +1,6 @@
 # koa-placehold
 
-> koa placeholder image generator
+> koa placeholder image generator  
 > **It will not output PNG, JPG pictures, just SVG.**
 
 [![Linux Build][travis-image]][travis-url]
@@ -76,4 +76,4 @@ etc.
 [dependencies-image]: https://img.shields.io/david/52cik/koa-placehold.svg?style=flat
 
 [node-url]: https://nodejs.org
-[node-image]: https://img.shields.io/badge/node-%3E%3D%200.10.0-brightgreen.svg
+[node-image]: https://img.shields.io/badge/node-%3E%3D%204.0.0-brightgreen.svg
